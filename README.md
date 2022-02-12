@@ -29,6 +29,9 @@ file size of the zip file.
 
 ## Release Notes
 
+### 3.1.1 (Feb 12, 2022
+* Handle zip traversal vulnerability - android
+
 ### 3.1.0 (Feb 23, 2016)
 * Updated SSZipArchive (ios lib) to 1.1
 
